@@ -1,0 +1,24 @@
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\bin\Release\net5.0-windows\UoM Chemistry Stores.exe
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\bin\Release\net5.0-windows\UoM Chemistry Stores.deps.json
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\bin\Release\net5.0-windows\UoM Chemistry Stores.runtimeconfig.json
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\bin\Release\net5.0-windows\UoM Chemistry Stores.runtimeconfig.dev.json
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\bin\Release\net5.0-windows\UoM Chemistry Stores.dll
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\bin\Release\net5.0-windows\UoM Chemistry Stores.pdb
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\obj\Release\net5.0-windows\UoM Chemistry Stores.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\obj\Release\net5.0-windows\UoM_Chemistry_Stores.OrderLogsVC.resources
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\obj\Release\net5.0-windows\UoM_Chemistry_Stores.OrderVC.resources
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\obj\Release\net5.0-windows\UoM_Chemistry_Stores.PersonalDataVC.resources
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\obj\Release\net5.0-windows\UoM_Chemistry_Stores.QuantityDialogVC.resources
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\obj\Release\net5.0-windows\UoM_Chemistry_Stores.SettingsVC.resources
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\obj\Release\net5.0-windows\UoM_Chemistry_Stores.TermsAndConditionsVC.resources
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\obj\Release\net5.0-windows\UoM_Chemistry_Stores.UoMChemistryStores.resources
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\obj\Release\net5.0-windows\UoM Chemistry Stores.csproj.GenerateResource.cache
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\obj\Release\net5.0-windows\UoM Chemistry Stores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\obj\Release\net5.0-windows\UoM Chemistry Stores.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\obj\Release\net5.0-windows\UoM Chemistry Stores.AssemblyInfo.cs
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\obj\Release\net5.0-windows\UoM Chemistry Stores.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\obj\Release\net5.0-windows\UoM Chemistry Stores.dll
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\obj\Release\net5.0-windows\refint\UoM Chemistry Stores.dll
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\obj\Release\net5.0-windows\UoM Chemistry Stores.pdb
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\obj\Release\net5.0-windows\UoM Chemistry Stores.genruntimeconfig.cache
+C:\Users\kamil\Desktop\UoM Chemistry Stores App\UoM Chemistry Stores\UoM Chemistry Stores\obj\Release\net5.0-windows\ref\UoM Chemistry Stores.dll
